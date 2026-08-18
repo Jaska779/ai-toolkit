@@ -10,7 +10,7 @@ ai-toolkit/
 ├── skills/       # Agent skills (e.g. for Claude Code)
 ├── examples/     # Example projects and code samples
 └── workshops/    # Workshop materials, one folder per event
-    └── 2026-09-19-claude-design/
+    └── 2026-08-19-claude-design/
 ```
 
 ### prompts/
@@ -31,7 +31,7 @@ Materials for workshops and training sessions. Each event gets its own folder na
 
 | Date | Workshop |
 | --- | --- |
-| 2026-09-19 | [Claude design](workshops/2026-09-19-claude-design/) |
+| 2026-08-19 | [Claude design](workshops/2026-08-19-claude-design/) |
 
 ## License
 
